@@ -1,0 +1,111 @@
+.head1 {
+
+    font-family: Inter;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 98px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+
+.head2{
+    
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: 64px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.nav-link1 {
+
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+
+.purple {
+    background: #8C30F5;
+
+}
+
+.btn-text {
+
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    color: aliceblue;
+}
+
+.bg-cyan{
+    background: #2EC5CE;
+
+}
+
+.para{
+   
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.bg-blackish{
+    background: #0B0D17;
+
+}
+
+.foot-link{
+
+text-decoration: none;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+}
+
+.head4{
+ 
+font-family: Inter;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+
+@media only screen and (min-width: 900px) {
+    .back {
+        background-image: url('background.svg');
+        background-repeat: 1;
+        background-size: cover;
+    
+    }
+}
